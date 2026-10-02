@@ -1,15 +1,16 @@
-👨‍💻 Алексей Гравов
 <div align="center">
+👨‍💻 Алексей Гравов
 Frontend Developer · React · TypeScript · MobX
 
-https://img.shields.io/badge/Telegram-@gravov_aleksei-26A5E4?style=flat-square&logo=telegram&logoColor=white
-https://img.shields.io/badge/GitHub-s41nt799-181717?style=flat-square&logo=github&logoColor=white
-https://img.shields.io/badge/Email-alekseigravov@yandex.ru-EA4335?style=flat-square&logo=gmail&logoColor=white
-https://img.shields.io/badge/%F0%9F%93%8D-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-005BBB?style=flat-square
+<p> <img src="https://img.shields.io/badge/Telegram-@gravov_aleksei-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-s41nt799-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-alekseigravov@yandex.ru-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-005BBB?style=flat-square" /> </p>
 
 </div>
+
 🧑‍💻 About Me
-🔭 Currently working on SeaChips — интернет-магазин снеков
+🔭 Currently working on Trading Demo - capstone project 
 
 ⚡ Building SPA with React + TypeScript + MobX
 
@@ -17,9 +18,9 @@ https://img.shields.io/badge/%F0%9F%93%8D-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-0
 
 🎓 НИЯУ МИФИ — Прикладная математика и информатика (1 курс)
 
-🎯 Goal: уверенный Middle Frontend → Fullstack
+🎯 Goal: уверенный Teamlead Frontend Engeneer
 
-🥋 КМС по тхэквондо ИТФ · 🌊 Проплыл «Бассейн Школы 21»
+🥋 КМС по тхэквондо ИТФ · 🌊 Студент «Школы 21»
 
 🛠️ Tech Stack
 🚀 Core
@@ -62,3 +63,6 @@ https://img.shields.io/badge/%F0%9F%93%8D-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-0
 📱 Полностью адаптивный интерфейс
 
 🔗 www.seachips.ru
+
+📊 GitHub Stats
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=s41nt799&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s41nt799&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=s41nt799&theme=tokyonight&hide_border=true&background=0D1117" /></div>
