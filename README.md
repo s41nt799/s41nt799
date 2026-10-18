@@ -20,7 +20,7 @@ Frontend Developer · React · TypeScript · MobX
 
 🎯 Goal: уверенный Teamlead Frontend Engeneer
 
-🥋 КМС по тхэквондо ИТФ · 🌊 Студент «Школы 21»
+🥋 МС по тхэквондо ИТФ · 🌊 Студент «Школы 21»
 
 🛠️ Tech Stack
 🚀 Core
